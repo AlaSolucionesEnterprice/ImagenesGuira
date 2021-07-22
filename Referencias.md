@@ -9,6 +9,7 @@ Aqui estan todos los link importantes para el proyecto
 | Video basico Plasma            | https://youtu.be/ZcGPeM6A3G0 |
 | Video basico Oxicorte          | https://youtu.be/gXuMDxYeqZ4 |
 | Video Driver y motores Yaskawa | https://youtu.be/Gzo9m0tMD0A |
+| DIY built CNC Plasma with Arduino THC (Torch Height Controller) | https://www.youtube.com/watch?v=S1K2DV6XvNE | 
 
 | Articulos                                |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
