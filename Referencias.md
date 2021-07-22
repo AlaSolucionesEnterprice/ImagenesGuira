@@ -14,6 +14,7 @@ Aqui estan todos los link importantes para el proyecto
 | Articulos                                |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
 | Plasma Cutting Primer for LinuxCNC Users | http://linuxcnc.org/docs/2.8/html/plasma/plasma-cnc-primer.html#_choosing_a_plasma_machine_for_cnc_operations |
+| Info on how to set up a torch height controller. | http://wiki.linuxcnc.org/cgi-bin/wiki.pl?Torch_Height_Control |
 
 | Repos                                    |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
