@@ -21,6 +21,6 @@ Aqui estan todos los link importantes para el proyecto
 | ---------------------------------------- | ------------------------------------------------------------ |
 | DIY built CNC Plasma with Arduino THC (Torch Height Controller) | https://github.com/regeg/ArdunioTHC |
 | CNC Motion Control Firmware for XmotionCNC Motion Control Boards or Arduino UNO DIY setup. Focused on CNC Plasma Cutting. | https://github.com/UnfinishedBusiness/XmotionFirmware |
-
+|Arduino based THC that reads plasma cutter voltage and send Up and Down signals to Plasma Torch Actuator to adjust voltage to target value.|https://github.com/HaleDesign/TorchHeightController|
 
 
