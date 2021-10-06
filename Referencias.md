@@ -18,6 +18,9 @@ Aqui estan todos los link importantes para el proyecto
 | LS-THC Guide | https://www.langmuirsystems.com/thc/guide#usb-drivers|
 |G-code Wiki|https://reprap.org/wiki/G-code|
 
+Repo de trabajo del Firmware
+https://github.com/erosalesodev/grbl
+
 | Repos                                    |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
 |Plasma THC|https://github.com/grblHAL/Plugin_plasma/|
