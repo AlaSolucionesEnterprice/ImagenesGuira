@@ -24,7 +24,8 @@ https://github.com/erosalesodev/grbl
 # Repos
 | Repos                                    |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
-|Plasma THC|https://github.com/grblHAL/Plugin_plasma/|
+| ArdunioTHC | https://github.com/regeg/ArdunioTHC |
+| Plasma THC | https://github.com/grblHAL/Plugin_plasma/|
 | DIY built CNC Plasma with Arduino THC (Torch Height Controller) | https://github.com/regeg/ArdunioTHC |
 | CNC Motion Control Firmware for XmotionCNC Motion Control Boards or Arduino UNO DIY setup. Focused on CNC Plasma Cutting. | https://github.com/UnfinishedBusiness/XmotionFirmware |
 |Arduino based THC that reads plasma cutter voltage and send Up and Down signals to Plasma Torch Actuator to adjust voltage to target value.|https://github.com/HaleDesign/TorchHeightController|
