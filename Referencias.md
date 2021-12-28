@@ -10,6 +10,7 @@ Aqui estan todos los link importantes para el proyecto
 | Video basico Oxicorte          | https://youtu.be/gXuMDxYeqZ4 |
 | Video Driver y motores Yaskawa | https://youtu.be/Gzo9m0tMD0A |
 | DIY built CNC Plasma with Arduino THC (Torch Height Controller) | https://www.youtube.com/watch?v=S1K2DV6XvNE | 
+| Documentacion GRBL | https://tgit-tech.github.io/grbl-Mega-Doxy/ |
 
 | Articulos                                |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |
@@ -19,7 +20,7 @@ Aqui estan todos los link importantes para el proyecto
 |G-code Wiki|https://reprap.org/wiki/G-code|
 
 # Repo de trabajo del Firmware
-https://github.com/erosalesodev/grbl
+https://github.com/erosalesodev/Grbl-Mega-Plasma
 
 # Repos
 | Repos                                    |                                                              |
