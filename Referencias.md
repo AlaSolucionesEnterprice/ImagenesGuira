@@ -18,6 +18,9 @@ Aqui estan todos los link importantes para el proyecto
 | Info on how to set up a torch height controller. | http://wiki.linuxcnc.org/cgi-bin/wiki.pl?Torch_Height_Control |
 | LS-THC Guide | https://www.langmuirsystems.com/thc/guide#usb-drivers|
 |G-code Wiki|https://reprap.org/wiki/G-code|
+|THC hardware example|https://www.proma-elektronika.com/compact-thc-150/|
+|Grbl documentation|https://tgit-tech.github.io/grbl-Mega-Doxy/index.html|
+|GCode dictionary by Duet3d|https://duet3d.dozuki.com/Wiki/Gcode|
 
 # Repo de trabajo del Firmware
 https://github.com/erosalesodev/Grbl-Mega-Plasma
@@ -31,4 +34,4 @@ https://github.com/erosalesodev/Grbl-Mega-Plasma
 | CNC Motion Control Firmware for XmotionCNC Motion Control Boards or Arduino UNO DIY setup. Focused on CNC Plasma Cutting. | https://github.com/UnfinishedBusiness/XmotionFirmware |
 |Arduino based THC that reads plasma cutter voltage and send Up and Down signals to Plasma Torch Actuator to adjust voltage to target value.|https://github.com/HaleDesign/TorchHeightController|
 |CNC plugin for the plasma torch height controlling on the base of Arduino (ATmega328P MCU)|https://github.com/ussserrr/torch-height-control|
-
+|THC plasma plugin|https://github.com/grblHAL/Plugin_plasma|
